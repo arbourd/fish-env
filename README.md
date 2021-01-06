@@ -1,9 +1,9 @@
-# fish-aliases
+# fish-env
 
-A collection of fish aliases.
+A collection of fish functions and completitions.
 
 ## Installation
 
 ```console
-$ fisher install arbourd/fish-aliases
+$ fisher install arbourd/fish-env
 ```
